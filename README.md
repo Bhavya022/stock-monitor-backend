@@ -1,4 +1,4 @@
-# stock-monitor-backend
+# stock-monitor
 # Stock Monitoring Platform
 
 ## Overview
@@ -153,3 +153,6 @@ Publish Directory: build
 Deploy the site and access your app at the provided URL.
 
 This completes the setup for the stock monitoring platform using Node.js for the backend and React with TypeScript for the frontend. The app allows users to register, log in, manage their watchlists, and view the latest stock prices. The deployment instructions ensure your application can be hosted online for users to access.
+
+## Deploy Link
+https://wondrous-puppy-fbc2be.netlify.app/
